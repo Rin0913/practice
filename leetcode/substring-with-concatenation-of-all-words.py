@@ -23,5 +23,3 @@ class Solution:
             st += 1
             ed += 1
         return ans
-
-# I think this problem is not designed well.
